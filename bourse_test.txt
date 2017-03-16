@@ -1,0 +1,38 @@
+
+
+
+
+Algorithme :
+
+- classer tous les ordres de vente des joueurs: ceux qui nous intéressent
+                                                classer par ordre croissant des prix de ventes
+
+
+- choisir les actions qui nous interessent le moins pour les vendre:    classer les ventes des joueurs
+                                                                        choisir la moins chere et enlever 1 centime
+                                                                        a part si elle est trop peu chere
+- regarder souvent notre solde ainsi que le volume de nos actions
+- se focaliser sur 2 voir 3 actions et vendre les autres
+- creer un algo pour savoir quelle action choisir
+- voir le "mouvement" des actions des joueurs: classer les actions les plus choisi pour ne pas les prendre
+
+
+
+
+
+
+
+
+fenetre bourse:
+
+-mettre des curseurs pour choisir le volume et le prix
+-faire apparaitre/disparaitre l'historique quand on clique sur le bouton
+-faire une graph des cours des actions
+-mettre un menu automatique/manuel
+-commencer par un ecran de connexion -> choix creation partie ou rejoindre partie : recupere id du joueur ...
+
+
+-mettre une alerte des que notre solde est <-10%
+-afficher le timer
+-afficher le pourcentage d'augmentation ou de diminution des cours d'une action
+
